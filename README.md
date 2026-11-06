@@ -29,7 +29,7 @@ The processed data is included in `data/`, so the analysis notebooks can be run 
 | -------- | ----------- | ---------------- |
 | `Subquestion 1.ipynb` | Effect on the changed roads | `Visualisations and Graphs/RQ1/` |
 | `Subquestion 2.ipynb` | Accident severity | `Visualisations and Graphs/RQ2/` |
-| `Subquestion 3.ipynb` | Nationwide comparison | Shown in the notebook only |
+| `Subquestion 3.ipynb` | Nationwide comparison | Shown in the notebook, not saved automatically. Exported figures are in `Visualisations and Graphs/RQ3/` |
 | `Subquestion 4.ipynb` | Predicted trend | `Visualisations and Graphs/RQ4/` |
 
 ### Rebuilding the data from scratch
